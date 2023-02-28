@@ -1,1 +1,2 @@
-# bazalo
+# Head Pose Estimation Project
+
