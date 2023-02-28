@@ -1,4 +1,4 @@
-# Head Pose Estimation Project
+# Head Pose Estimation
 
 Training three machine learning models to estimate the rotation axes (pitch, yaw and roll) of the head
 
